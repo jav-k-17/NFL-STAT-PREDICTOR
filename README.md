@@ -6,4 +6,7 @@
   
 - Implemented Sklearn's linear regression with train and test data, achieving 96% accurate stat predictions.
 
-- TO-DO : Try and implement different features that are less related to wide reciever stats than the orginal ones chosen. 
+- TO-DO : Try and implement different features that are less related to wide reciever stats than the orginal ones chosen.
+
+- Created using Jupyter Notebook, Python, Pandas, Matplotlib, NumPy, Scikit-learn, and Seaborn
+
